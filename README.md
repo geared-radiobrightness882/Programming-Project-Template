@@ -30,6 +30,8 @@ This template is primarily designed for students studying:
 
 ## First time here?
 
-If your computer is not set up for your Monash units yet, follow the setup guide:
+If your computer is not already set up for FIT1045, use the official FIT1045 setup instructions first.
 
-→ `docs/first-time-setup.md`
+This repository only provides a quick verification checklist:
+
+→ [FIT1045 Environment Capability Check](docs/setup/FIT1045-verify-checklist.md)
