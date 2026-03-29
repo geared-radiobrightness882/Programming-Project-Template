@@ -126,10 +126,10 @@
         "workbench.startupEditor": "none",
         "workbench.tree.indent": 16
     },
-  "extensions": {
-    "recommendations": [
-      "tal7aouy.theme",
-      "pkief.material-icon-theme"
-    ]
-  }
+    "extensions": {
+        "recommendations": [
+        "tal7aouy.theme",
+        "pkief.material-icon-theme"
+        ]
+    }
 }

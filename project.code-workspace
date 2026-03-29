@@ -3,7 +3,7 @@
     // No environment, toolchain, or course-specific behavior.
     "folders": [
         {
-        "path": "."
+            "path": "."
         }
     ],
     "settings": {
